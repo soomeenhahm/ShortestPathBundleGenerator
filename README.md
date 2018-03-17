@@ -3,5 +3,5 @@
 
 This script connects shortest pathes on 3 dimensional spaceframe network. Each edge on the network registers the friquency of passed connections which can be traslated to any design operations such as amount of bundles or thickness of edge etc.
 
-image credit: Team-SpaceStream of Barteltt. BPro. AD. RC6. 
+Image credit: Team-SpaceStream of Barteltt. BPro. AD. RC6. 
               Taught by Daniel Widrig. Stefan Bassing. Soomeen Hahm
