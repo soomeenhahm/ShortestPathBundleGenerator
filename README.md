@@ -1,5 +1,5 @@
 # ShortestPathBundleGenerator
-This script connects shortest pathes on 3 dimensional spaceframe network. Each edge on the network registers the friquency of passed connections which can be traslated to any design operations such as amount of bundles or thickness of edge etc.
+This script connects shortest pathes on 3 dimensional spaceframe network. Each edge on the network register the friquency of passed by agents which can be traslated into any design operations such as amount of bundles or thickness of edge etc.
 
 Image credit: Team-SpaceStream of Barteltt. BPro. AD. RC6. 
               Taught by Daniel Widrig. Stefan Bassing. Soomeen Hahm
